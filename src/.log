@@ -1738,3 +1738,4 @@
 2022-11-20 14:55:43,524 [1100] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
 2022-11-20 14:55:43,694 [1100] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
 2022-11-20 14:55:43,965 [1100] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
+2022-11-20 14:55:44,210 [1100] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
