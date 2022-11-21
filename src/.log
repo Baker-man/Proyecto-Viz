@@ -1739,3 +1739,21 @@
 2022-11-20 14:55:43,694 [1100] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
 2022-11-20 14:55:43,965 [1100] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
 2022-11-20 14:55:44,210 [1100] DEBUG    matplotlib.axes._base:2994: [JupyterRequire] top of Axes not in the figure, so title not moved
+2022-11-21 18:47:19,935 [13884] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-21 18:47:19,937 [13884] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-21 18:47:19,937 [13884] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-21 18:47:19,939 [13884] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-21 18:47:19,939 [13884] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-21 18:47:19,940 [13884] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-21 18:47:20,785 [13884] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-21 18:47:20,785 [13884] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-21 18:47:20,786 [13884] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-21 18:47:20,788 [13884] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-21 18:47:20,788 [13884] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-21 18:47:20,789 [13884] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2022-11-21 18:47:43,394 [13884] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2022-11-21 18:47:43,394 [13884] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2022-11-21 18:47:43,394 [13884] INFO     root:247: [JupyterRequire] Initializing comms.
+2022-11-21 18:47:43,396 [13884] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2022-11-21 18:47:43,397 [13884] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2022-11-21 18:47:43,397 [13884] DEBUG    root:97: [JupyterRequire] Registering comm targets.
