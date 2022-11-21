@@ -33,11 +33,11 @@ Por otro lado, se ha elaborado un mapa de calor dinámico por meses para el peri
 
 1) Dashboard concentración de accidentes de tráfico en Madrid:
 
-![Dashboard1](https://user-images.githubusercontent.com/112175733/202927277-00e8d669-89bc-4644-97de-0e8780feb90b.png)
+![Dashboard1](https://user-images.githubusercontent.com/112175733/203123696-a18a6491-11c3-4ba2-835e-5dc6085511b3.png)
 
 2) Dashboard de accidentes de tráfico en Madrid:
 
-![Dashboard2](https://user-images.githubusercontent.com/112175733/202927309-08af27c7-f4a9-4812-9d9e-91cb2437d7b9.png)
+![Dashboard2](https://user-images.githubusercontent.com/112175733/203123769-a4221a7a-e7ab-4793-96ac-f0f29939c860.png)
 
 3) Mapa de calor dinámico por meses:
 
