@@ -2,13 +2,13 @@
 
 **ÍNDICE**
 
-1. Objetivos
-2. Pasos seguidos
-3. Visualización
+[1. Objetivos](#0)<br />
+[2. Pasos seguidos](#steps)<br />
+[3. Visualización](#viz)<br />
 
 ------------------------------------------
 
-🎯 **OBJETIVOS**
+🎯 **OBJETIVOS**<a name="0"/> 
 
 1) Crear un repo nuevo con files src, img, data, Readme.md y gitignore.
 
@@ -18,7 +18,7 @@
 
 ------------------------------------------
 
-📋 **PASOS SEGUIDOS**
+📋 **PASOS SEGUIDOS**<a name="steps"/> 
 
 Se han generado dos cuadros de mando con Power BI que disponen de selectores/filtros y gráficos similares, y cuya diferencia reside en el mapa central de cada uno.
 Para el primero se ha elegido un mapa de calor para visualizar más eficazmente la concentración de accidentes y para el segundo se ha elegido un mapa de puntos por cada accidente con la posibilidad de consultar en el pop-up información adicional de cada uno.
@@ -50,7 +50,7 @@ Por otro lado, se ha elaborado un mapa de calor dinámico por meses para el peri
 
 ---------------------------------------
 
-💹 **VISUALIZACIÓN**
+💹 **VISUALIZACIÓN**<a name="viz"/> 
 
 1) Dashboard concentración de accidentes de tráfico en Madrid:
 
